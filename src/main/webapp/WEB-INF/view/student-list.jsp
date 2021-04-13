@@ -46,6 +46,9 @@
 
 			</c:forEach>
 		</table>
+		
+		<img alt="students photo" src="/student-management/URLToReachResourcesFolder/images/student.png"/>
+		
 	</div>
 
 </body>

@@ -55,6 +55,7 @@ public class StudentAppConfig implements WebMvcConfigurer {
 		registry
 		.addResourceHandler("/URLToReachResourcesFolder/**")
 		.addResourceLocations("/resources/");
+//		/student-management/src/main/webapp/WEB-INF/resources/css/my-style-sheet.css
 		
 		
 	}

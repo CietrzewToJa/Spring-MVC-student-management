@@ -1,3 +1,9 @@
+/home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/service/StudentServiceImpl.java
 /home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/config/StudentAppConfig.java
+/home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/api/Student.java
+/home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/DAO/StudentDAO.java
+/home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/service/StudentService.java
+/home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/DAO/StudentDAOImpl.java
+/home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/rowmapper/StudentRowMapper.java
 /home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/config/StudentAppInitializer.java
 /home/maciej/Java/eclipse-workspace/student-management/src/main/java/com/cietrzew/sm/controllers/StudentController.java
